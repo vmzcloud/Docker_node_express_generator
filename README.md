@@ -1,5 +1,5 @@
 <b>Usage</b>
-<pre># docker run -d -p 3000:3000 vmzcloud/node_express_generator:20201101</pre>
+<pre># docker run -d -p 3000:3000 vmzcloud/node_express_generator:latest</pre>
 
 <b>Components</b>
 <p>node</p>
